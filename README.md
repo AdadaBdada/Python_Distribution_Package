@@ -1,1 +1,4 @@
-# Software_Engineering
+# Python Distribution Package
+
+- Gaussian Distribution
+- Binomial Distribution
